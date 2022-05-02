@@ -1,3 +1,3 @@
 Hi, I’m @ctapnio 🌊
 
-Hope all is well 😄
+I am a Software Development student in Canada looking to build some scalable web/mobile applications. 
