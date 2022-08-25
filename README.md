@@ -1,3 +1,3 @@
 Hi, I’m @ctapnio 🌊
 
-I am a Software Development student in Canada looking to build some scalable web/mobile applications. 
+I am a Mechanical & Software Engineering graduate from Sheridan College looking to build some scalable web/mobile applications. 
