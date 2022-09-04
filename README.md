@@ -4,4 +4,5 @@ I am a Mechanical & Software Engineering graduate from Sheridan College looking 
 
 Feel free to check out the following:
 * [Web Portfolio](https://ctapnio.com/)
+* ([Web Portfolio](https://ctapnio.com/))
 * [LinkedIn](https://www.linkedin.com/in/ctapnio/)
